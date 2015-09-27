@@ -1,0 +1,35 @@
+errorDocument 400 /error.php
+errorDocument 401 /error.php
+errorDocument 404 /error.php
+errorDocument 500 /error.php
+
+# Disable Directory Browsing
+Options All -Indexes
+
+RewriteEngine On
+
+RewriteRule ^deal/([a-zA-Z0-9-\s]+)$ deal.php?deal_id=$1
+RewriteRule ^deal/([a-zA-Z0-9-\s]+)/$ deal.php?deal_id=$1
+
+RewriteRule ^deal/([a-zA-Z0-9-\s]+)/([a-zA-Z0-9-\s]+)/([a-zA-Z0-9-\s]+)$ deal.php?deal_id=$1
+RewriteRule ^deal/([a-zA-Z0-9-\s]+)/([a-zA-Z0-9-\s]+)/([a-zA-Z0-9-\s]+)/$ deal.php?deal_id=$1
+
+RewriteRule /((?:css|js|images)/.+)$ $1 [L,NC,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^/]+)/$ $1.php
+
+RewriteCond %{HTTP_HOST} ^kouponize.com
+RewriteRule (.*) http://www.kouponize.com/$1 [R=301,L]
+
+#RewriteCond %{HTTP_HOST} ^subdomain\.kouponize\.com$
+#RewriteCond %{REQUEST_URI} !^/subdomain_folder/
+#RewriteRule (.*) /subdomain_folder/$1
+
+#RewriteCond %{HTTP_HOST} ^oldwebsite.com
+#RewriteRule (.*) http://www.newwebsite.com/$1 [R=301,L]
+
+#RewriteCond %{HTTP_HOST} ^www\.oldwebsite\.com
+#RewriteRule (.*) http://www.newwebsite.com/$1 [R=301,L]
+

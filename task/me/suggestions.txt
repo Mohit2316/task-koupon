@@ -1,0 +1,3 @@
+// suggestions : 
+1.) Using sass or scss to avoid repetition and better practises.
+2.) Using CDN for image hosting due to cache implementations.

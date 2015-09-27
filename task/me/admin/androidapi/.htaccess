@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule api/(.*)/ api.php?action=$1
+RewriteRule api/(.*) api.php?action=$1
+RewriteRule api/(.*)?deal_id=(.*)/ api.php?action=$1&deal_id=$2
+RewriteRule api/(.*)?deal_id=(.*) api.php?action=$1&deal_id=$2
+#RewriteRule api/(.*)/start_index/(.*)/items_per_page/(.*)/ api.php?action=$1&start_index=$2&items_per_page=$3
+#RewriteRule api/(.*)/start_index/(.*)/items_per_page/(.*) api.php?action=$1&start_index=$2&items_per_page=$3
+RewriteRule api/(.*)/start_index/(.*)/items_per_page/(.*)/menu_id/(.*)/ api.php?action=$1&start_index=$2&items_per_page=$3&menu_id=$4
+RewriteRule api/(.*)/start_index/(.*)/items_per_page/(.*)/menu_id/(.*) api.php?action=$1&start_index=$2&items_per_page=$3&menu_id=$4

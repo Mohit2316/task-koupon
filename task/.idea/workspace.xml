@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aad3dc62-1589-47cb-800f-0d1adcc4d449" name="Default" comment="" />
+    <ignored path="task.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - lms@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="lms" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="task" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/me/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43939394">
+              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="dbtable:/4a0291ba/97831d57-1329-4994-937f-97ea44d5e243/lms..lms_actor_permission" />
+        <option value="dbtable:/4a0291ba/97831d57-1329-4994-937f-97ea44d5e243/lms..lms_actor_role" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/97831d57-1329-4994-937f-97ea44d5e243/console.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad3dc62-1589-47cb-800f-0d1adcc4d449" name="Default" comment="" />
+      <created>1443001498238</created>
+      <option name="number" value="Default" />
+      <updated>1443001498238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988048" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://DATABASE/dc3a4e96-bac3-4429-a766-a3019e6de202">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>dc3a4e96-bac3-4429-a766-a3019e6de202</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="264.0" y="295.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e97211fd-a7c4-4738-9f56-46ed249b8c95/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/40e063e0-e73b-4b15-acf5-9880c5deb709/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3d8532bd-1418-4cae-a1fd-f752f77717c4/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/faad4021-8f0e-4f12-acac-dc25ee2731a7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/97831d57-1329-4994-937f-97ea44d5e243/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/97831d57-1329-4994-937f-97ea44d5e243">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>97831d57-1329-4994-937f-97ea44d5e243</OriginalElement>
+          <nodes>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_actor_permission</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_assigning</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_dealer</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_campaign_log</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_step</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_user_city</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_campaign_agent</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_user</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_source_utm</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_workers</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_actor_type</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_dealer_designation</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_group_master</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_mailreport</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_rc_position_distance</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_user_brand</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_auto_allocation</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_series_tracker</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_rc_step_status</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_campaign</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_access</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_mail_by_brand</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_import_call</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_dealer</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_dealer_model</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_rc_tenure</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_user_model</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_mail_by_brand_to_rsm</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_exchange_car</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_loan_car</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_actor_role</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_product</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_report</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_rc_lead_source</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_campaign_source</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_step_value</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_master</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_dealer_showroom</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_campaign_brand_city</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_status</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_dealer_contact</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_contact</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_mailreport_drm</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_sms_to_dealer</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_import</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_rc_employment</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_sms_to_client</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_step_own</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_rc_lead_status</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_log_access_denied</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_rc_position</node>
+            <node x="" y="">97831d57-1329-4994-937f-97ea44d5e243.table:lms.lms_lead_invoice</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.13948339483394834" x="1446.5" y="1345.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4a0291ba/97831d57-1329-4994-937f-97ea44d5e243/lms..lms_actor_role">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4a0291ba/97831d57-1329-4994-937f-97ea44d5e243/lms..lms_actor_permission">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/me/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43939394">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

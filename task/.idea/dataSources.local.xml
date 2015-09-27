@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - lms@localhost" uuid="97831d57-1329-4994-937f-97ea44d5e243">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>lms.*</schema-pattern>
+      <default-schemas>lms.*</default-schemas>
+    </data-source>
+    <data-source name="MySQL - autoportal@localhost" uuid="3d8532bd-1418-4cae-a1fd-f752f77717c4">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>autoportal.*</schema-pattern>
+      <default-schemas>autoportal.*</default-schemas>
+    </data-source>
+  </component>
+</project>

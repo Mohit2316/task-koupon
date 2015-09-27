@@ -1,0 +1,109 @@
+@media (max-width: 768px) {
+	/* Center the logo image */
+	header.main img{
+		display: block;
+    	margin-left: auto;
+    	margin-right: auto
+	}
+	.search-area{
+		width:100%;
+		padding: 0;
+	}
+
+	#nav-category{
+		float:left !important;
+		margin-left: 10px;
+	}
+	.search-area .search-btn{
+		display: none;
+	}
+
+	.search-btn-mobile{
+		margin-top: 15px;
+		display: block !important;
+		width: 20%;
+		float: right;
+		height: 40px;
+		background-color:  rgb(255,193,0);
+		color: #fff;
+		font-weight: bold;
+	}
+
+
+	
+
+
+
+	.search-area #search-text{
+		position:relative;
+		width:100%;
+		background-color: #127684  !important;
+		
+	}
+	.search-area #search-location{
+		position:relative;
+		width:100%;
+		background-color: #1693a5 !important;
+		order:1;
+	}
+
+	#search-location #map-icon{
+		background-color: #1693a5 !important;
+		color: #fff;
+	}
+
+	.nav-coupon-category{
+		display: none;
+	}
+
+	.product-image{
+		width: 90% !important;
+	}
+
+	.product-label-custom{
+		right: 40px;
+	}
+
+	.product-inner{
+		width:90%;
+	}
+
+}
+
+.navbar{
+	margin-bottom: 0px;
+}
+
+/* reusable class for centering images or blocks */
+.centered{
+		display: block;
+    	margin-left: auto;
+    	margin-right: auto
+}
+
+/* for reduced width of the icon-bars*/
+.reduced-width-1{
+	width: 15px !important;
+}
+
+.reduced-width-2{
+	width: 8px !important;
+}
+
+.search-btn-mobile{
+	display: none;
+}
+/* installing proxima-nova regular font*/
+
+@font-face {
+    font-family: Proxima-Nova-regular;
+    src: url('font/ProximaNova-Regular.woff');
+}
+
+body{
+	font-family: Proxima-Nova-regular !important;
+}
+
+
+
+
